@@ -1,2 +1,2 @@
 # Calculadora
- Programa de calculadora
+ Em desenvolvimento
